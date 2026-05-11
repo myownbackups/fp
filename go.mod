@@ -51,7 +51,7 @@ require (
 	github.com/onsi/ginkgo/v2 v2.28.3 // indirect
 	github.com/pelletier/go-toml/v2 v2.3.1 // indirect
 	github.com/quic-go/qpack v0.6.0 // indirect
-	github.com/quic-go/quic-go v0.59.0 // indirect
+	github.com/quic-go/quic-go v0.59.1 // indirect
 	github.com/refraction-networking/uquic v0.0.6 // indirect
 	github.com/refraction-networking/utls v1.8.2 // indirect
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
